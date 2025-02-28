@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = '节能控制Sys'
+project = '智能电力'
 copyright = '2024, Mouyase'
 author = 'Mouyase'
 release = 'v1.0.0'
