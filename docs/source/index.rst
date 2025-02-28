@@ -6,7 +6,6 @@
     :name: mastertoc
 
     docs/about
-    docs/controller/index
     docs/glossary
 
 
